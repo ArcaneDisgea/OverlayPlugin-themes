@@ -1,4 +1,4 @@
-#OverlayPlugin Themes
+# OverlayPlugin Themes
 
 # Hosting on the web
 Hey guys i decided to start pushing all of the udpates to a web hosted solution so by pointing at the Hosted Docs we can keep everyone up to date without having to have you guys download the files every time. 
